@@ -6,11 +6,11 @@ sys.path.append('.')
 from pelicanconf import *
 
 
-SITEURL = 'http://devinberg.github.com'
+SITEURL = 'http://notebook.devinberg.com'
 FEED_DOMAIN = SITEURL
 
 DELETE_OUTPUT_DIRECTORY = True
 
 # Uncomment following line for absolute URLs in production:
 #RELATIVE_URLS = False
-GOOGLE_ANALYTICS = "CHANGE THIS"
+GOOGLE_ANALYTICS = "UA-3883459-1"
