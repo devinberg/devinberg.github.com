@@ -26,7 +26,7 @@ LOGO_URL = 'https://dl.dropboxusercontent.com/u/7030113/www/art-noveau-ornament.
 MENUITEMS = (
     ('archives', '/archives.html'),
     ('profile', 'http://www.uwstout.edu/faculty/bergdev'),
-    ('home', 'https://www.devinberg.com'),
+    ('home', 'http://www.devinberg.com'),
 )
 DISPLAY_PAGES_ON_MENU = True
 FOOTER_MESSAGE = u'This work is licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/" rel="license">CC BY-SA</a>.'
