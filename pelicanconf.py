@@ -14,7 +14,7 @@ FEED_RSS = 'feeds/all.rss'
 TIMEZONE = 'America/Chicago'
 DEFAULT_LANG = u'en'
 DATE_FORMATS = {
-    'en': '%Y-%m-%d',
+    'en': '%Y/%m',
 }
 DEFAULT_PAGINATION = 1
 
@@ -25,7 +25,8 @@ THEME = 'themes/tuxlite_tbs'
 LOGO_URL = 'https://dl.dropboxusercontent.com/u/7030113/www/art-noveau-ornament.png'
 MENUITEMS = (
     ('archives', '/archives.html'),
-    ('github', 'https://github.com/devinberg/'),
+    ('profile', 'http://www.uwstout.edu/faculty/bergdev'),
+    ('website', 'https://www.uwstout.edu/faculty/bergdev'),
 )
 DISPLAY_PAGES_ON_MENU = True
 FOOTER_MESSAGE = u'This work is licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/" rel="license">CC BY-SA</a>.'
