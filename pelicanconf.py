@@ -18,7 +18,7 @@ DATE_FORMATS = {
 }
 DEFAULT_PAGINATION = 1
 
-THEME = 'themes/pelican-foundation'
+THEME = 'themes/tuxlite_tbs'
 
 
 # display items
