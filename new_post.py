@@ -11,12 +11,13 @@ post['slug'] = raw_input('Slug: ')
 post['summary'] = raw_input('Summary: ')
 post['tags'] = raw_input('Tags: ')
 post['date'] = datetime.now().strftime('%Y-%m-%d')
+post['slugdate'] = datetime.now().strftime('%Y/%m')
 post['time'] = datetime.now().strftime('%H:%M')
 
 header = """Title: %(title)s
 Date: %(date)s %(time)s
 Tags: %(tags)s
-Slug: %(date)s/%(slug)s
+Slug: %(slugdate)s/%(slug)s
 Author: %(author)s
 Summary: %(summary)s
 """ % (post)
