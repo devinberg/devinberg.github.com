@@ -14,7 +14,7 @@ FEED_RSS = 'feeds/all.rss'
 TIMEZONE = 'America/Chicago'
 DEFAULT_LANG = u'en'
 DATE_FORMATS = {
-    'en': '%Y/%m',
+    'en': '%Y/%m/%d',
 }
 DEFAULT_PAGINATION = 1
 
