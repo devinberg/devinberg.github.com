@@ -1,0 +1,11 @@
+# Devin R. Berg
+Email:      devinberg [at] gmail [dot] com
+GitHub:     https://github.com/devinberg
+Twitter:    @devinberg
+Interests:  engineering, education, academia, medical devices, design
+
+
+## Site
+Language:   English
+Doctype:    HTML5 with CSS3
+Tools:      Ubuntu, Python, Pelican, Git & GitHub
