@@ -16,7 +16,7 @@ DEFAULT_LANG = u'en'
 DATE_FORMATS = {
     'en': '%Y/%m/%d',
 }
-DEFAULT_PAGINATION = 1
+DEFAULT_PAGINATION = 5
 
 THEME = 'themes/tuxlite_tbs'
 
