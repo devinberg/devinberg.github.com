@@ -1,10 +1,31 @@
-Title: Static Equilibrium Demonstrator: Pattern
-Date: 2012-09-05 10:23
-Tags: educational,pid00001
-Slug: 2012/09/static-equil-demonstrator-pattern
+Title: Wheelchair Ice Traction: Initial Concept
+Date: 2012-09-18 14:23
+Tags: assistive,medical devices,pid00002,ideas
+Slug: 2012/09/wheelchair-ice-traction-ic
 Author: Devin R. Berg
-Summary: Outline pattern for static equilibrium demonstrator frame. To be produced on a laser cutter.
+Summary: Initial idea for a method of improving ice traction for wheelchairs.
 
-The frame for the static equilibrium demonstrator can be fairly simple to produce. The pattern shown below can be cut on a laser cutter.
+How can you improve ice traction for wheelchairs? Is this even needed?
 
-<iframe src="https://docs.google.com/file/d/0Bzj3Tsn6ibRoMGJlYlM3Q2JmYms/preview" width="640" height="480"></iframe>
+#Needs
+* light-weight
+* deployable
+* compatible with existing wheelchairs
+* safe
+
+#Existing devices
+* [Chains](http://www.google.com/patents/US5261470): Basically wheel chains attached by straps.
+    * Must be attached ahead of time.
+	* Cannot be retracted when ice not present.
+* [Front-wheel Skis](http://www.gizmag.com/wheelblades-mini-wheelchair-skis/24329/): I guess that's an option.
+* [Zip-ties](http://www.usatechguide.org/blog/wheelchair-improve-traction/): Put a bunch of zip-ties on the wheels.
+    * Not exactly user friendly.
+	* Seen before for use on bike tires.
+    * Don't last very long.
+* [SAW Wheel](http://design.ema.wisc.edu/2010/index.html): Deployable attachment that provides traction.
+    * Looks heavy.
+	* Large. I wonder if it could be smaller.
+	
+I wonder if you could use a very large iris diaphram like mechanism to deploy small studded pieces to provide traction.
+
+<iframe src="https://docs.google.com/file/d/0Bzj3Tsn6ibRobGZkVkhBOUp2NDQ/preview" width="640" height="480"></iframe>
