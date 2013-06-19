@@ -22,7 +22,7 @@ THEME = 'themes/tuxlite_tbs'
 
 
 # display items
-LOGO_URL = 'https://dl.dropboxusercontent.com/u/7030113/www/art-noveau-ornament.png'
+LOGO_URL = 'http://www.devinandlauren.com/images/flower_single_sm.png'
 MENUITEMS = (
     ('archives', '/archives.html'),
     ('profile', 'http://www.uwstout.edu/faculty/bergdev'),
