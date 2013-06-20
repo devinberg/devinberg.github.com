@@ -8,9 +8,9 @@ Summary:  A listing of the projects detailed in this notebook.
 
 
 ### Inactive
-* [pid0002](/tag/pid0002.html): Wheelchair Ice Traction
+* [pid00002](/tag/pid00002.html): Wheelchair Ice Traction
 
 
 ### Archived
-* [pid00001](/tag/pid0001.html): Static Equlibrium Generator
+* [pid00001](/tag/pid00001.html): Static Equlibrium Generator
 
