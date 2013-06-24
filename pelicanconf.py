@@ -31,7 +31,7 @@ MENUITEMS = (
 DISPLAY_PAGES_ON_MENU = True
 FOOTER_MESSAGE = u'This work is licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/" rel="license">CC BY-SA</a>.'
 TWITTER_USERNAME = u'devinberg'
-
+DISQUS_SITENAME = u'devinsnotebook'
 
 #STATIC_PATHS = ()
 FILES_TO_COPY = (
