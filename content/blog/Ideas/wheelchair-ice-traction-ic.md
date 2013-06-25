@@ -28,4 +28,4 @@ How can you improve ice traction for wheelchairs? Is this even needed?
 	
 I wonder if you could use a very large iris diaphram like mechanism to deploy small studded pieces to provide traction.
 
-<iframe src="https://docs.google.com/file/d/0Bzj3Tsn6ibRobGZkVkhBOUp2NDQ/preview" width="640" height="480"></iframe>
+<iframe src="https://docs.google.com/file/d/0Bzj3Tsn6ibRobGZkVkhBOUp2NDQ/preview" width="800" height="1000"></iframe>
