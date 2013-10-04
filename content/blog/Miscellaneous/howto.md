@@ -14,7 +14,7 @@ I have adapted this guide from [Kevin Richardson's post](http://magically.us/201
 1. You're using a Unix-like environment (or have everything setup properly in Windows) and are comfortable using a command-line terminal and shell.
 2. You have Python.
 3. You have installed Git and have created a [GitHub](http://github.com) account. I furthermore assume you have working knowledge of Git. [GitHub's help pages](https://help.github.com/) may prove useful for many questions you may have.
-4. Everything relating to Pelican is installed and configured accroding to [this post](http://magically.us/2013-02-03/creating-a-pelican-powered-site-on-github-pages.html).
+4. Everything relating to Pelican is installed and configured according to [this post](http://magically.us/2013-02-03/creating-a-pelican-powered-site-on-github-pages.html).
 
 
 ### General Workflow
