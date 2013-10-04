@@ -1,7 +1,7 @@
 Title: How To Use a Site Like This  
 Date: 2013-02-03 16:00  
 Tags: meta,github,blogging  
-Slug: 2013-02-03/how-to-use-a-site-like-this  
+Slug: 2013/02/how-to-use-a-site-like-this  
 Author: Devin R. Berg  
 Summary: This post outlines how one can use the Pelican blog generator to establish a website on GitHub Pages.  
 
