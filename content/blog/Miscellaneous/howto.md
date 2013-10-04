@@ -1,0 +1,26 @@
+Title: How To Use a Site Like This  
+Date: 2013-02-03 16:00  
+Tags: meta,github,blogging  
+Slug: 2013-02-03/how-to-use-a-site-like-this  
+Author: Devin R. Berg  
+Summary: This post outlines how one can use the Pelican blog generator to establish a website on GitHub Pages.  
+
+
+### Prologue
+I have adapted this guide from [Kevin Richardson's post](http://magically.us/2013-02-03/creating-a-pelican-powered-site-on-github-pages.html) on how to generate a Pelican-powered site that is hosted on Github. I have stripped most of the relevant info such that this post contains only the basic information required for my usage. For a more complete version please refer to the previous link.
+
+
+### Assumptions
+1. You're using a Unix-like environment (or have everything setup properly in Windows) and are comfortable using a command-line terminal and shell.
+2. You have Python.
+3. You have installed Git and have created a [GitHub](http://github.com) account. I furthermore assume you have working knowledge of Git. [GitHub's help pages](https://help.github.com/) may prove useful for many questions you may have.
+4. Everything relating to Pelican is installed and configured accroding to [this post](http://magically.us/2013-02-03/creating-a-pelican-powered-site-on-github-pages.html).
+
+
+### General Workflow
+1. Create or edit your posts or pages using Markdown and your favorite editor.
+2. Save your changed files to the appropriate locations. Folders dictate categories.
+3. Add any newly created files to git using `gid add .`
+4. Run `git commit -am "Message describing the post"`
+5. Push the source changes with `git push origin source`
+6. Push compiled files to your website with `make github`
