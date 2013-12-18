@@ -23,7 +23,7 @@ This site is powered by the blogging platform [Pelican](http://getpelican.com). 
 [Linkedin](http://www.linkedin.com/in/devinberg): For connecting with me professionally.   
 [Academia.edu](https://uwstout.academia.edu/DevinBerg): For a more academically oriented page.   
 [ResearchGate](https://www.researchgate.net/profile/Devin_Berg/): For a more research oriented page.   
-[Google+](plus.google.com/+DevinBergPhD): Not used very often. Contains a mix of personal and professional.   
+[Google+](http://plus.google.com/+DevinBergPhD): Not used very often. Contains a mix of personal and professional.   
 
 #### Scholarly Output
 [Figshare](http://figshare.com/authors/Devin%20Berg/412062): A collection of my manuscripts, presentations, datasets, posters, figures, and media each with a unique DOI.   
