@@ -6,7 +6,7 @@ Summary:  A quick summary of Devin R. Berg and his engineering notebook.
 
 ### About me
 
-I am an Assistant Professor in the [Engineering & Technology Department](http://www.uwstout.edu/et) at the [University of Wisconsin - Stout](http://www.uwstout.edu). I also act as the Program Director for the BS Manufacturing Engineeing degree program here at UW-Stout. This means that I am responsible the day-to-day operations of the program, recruiting, assessment, and answering student questions. I primarily 
+I am an Assistant Professor in the [Engineering & Technology Department](http://www.uwstout.edu/et) at the [University of Wisconsin - Stout](http://www.uwstout.edu). I also act as the Program Director for the BS Manufacturing Engineeing degree program here at UW-Stout. This means that I am responsible the day-to-day operations of the program, recruiting, assessment, and answering student questions. I primarily teach in the area of mechanics but also teach capstone courses and various other things. My research interests are in the fields of engineering education, bio-inspired design, and medical devices.
 
 ### This site
 
@@ -17,27 +17,27 @@ This site is powered by the blogging platform [Pelican](http://getpelican.com). 
 ### Links
 
 #### Profiles
-[Faculty Profile](http://www.uwstout.edu/faculty/bergdev): My official faculty profile page. Also contains a link to my publications most with links to a PDF.
-[Google Scholar Citations](http://scholar.google.com/citations?user=coPlcTkAAAAJ&hl=en): An automatically generated list of my publications and their citations.
-[Twitter](http://www.twitter.com/devinberg): Used for short-form communications and outreach.
-[Linkedin](http://www.linkedin.com/in/devinberg): For connecting with me professionally.
-[Academia.edu](https://uwstout.academia.edu/DevinBerg): For a more academically oriented page.
-[ResearchGate](https://www.researchgate.net/profile/Devin_Berg/): For a more research oriented page.
-[Google+](plus.google.com/+DevinBergPhD): Not used very often. Contains a mix of personal and professional.
+[Faculty Profile](http://www.uwstout.edu/faculty/bergdev): My official faculty profile page. Also contains a link to my publications most with links to a PDF.   
+[Google Scholar Citations](http://scholar.google.com/citations?user=coPlcTkAAAAJ&hl=en): An automatically generated list of my publications and their citations.   
+[Twitter](http://www.twitter.com/devinberg): Used for short-form communications and outreach.   
+[Linkedin](http://www.linkedin.com/in/devinberg): For connecting with me professionally.   
+[Academia.edu](https://uwstout.academia.edu/DevinBerg): For a more academically oriented page.   
+[ResearchGate](https://www.researchgate.net/profile/Devin_Berg/): For a more research oriented page.   
+[Google+](plus.google.com/+DevinBergPhD): Not used very often. Contains a mix of personal and professional.   
 
 #### Scholarly Output
-[Figshare](http://figshare.com/authors/Devin%20Berg/412062): A collection of my manuscripts, presentations, datasets, posters, figures, and media each with a unique DOI.
-[Slideshare](http://www.slideshare.net/devinberg): My presentation slides in a format that is easier to view online. Overlap with Figshare.
-[Prezi](http://prezi.com/user/ybrk9aevwm27/): For Prezi style presentations.
-[Youtube](http://www.youtube.com/playlist?list=PLxXTFCvC6VNdWRZtOUFjw3xcPd1QtzazT): Videos from my research or teaching activities.
-[Github](https://github.com/devinberg): A repository for various code projects. Some personal some professional.
+[Figshare](http://figshare.com/authors/Devin%20Berg/412062): A collection of my manuscripts, presentations, datasets, posters, figures, and media each with a unique DOI.   
+[Slideshare](http://www.slideshare.net/devinberg): My presentation slides in a format that is easier to view online. Overlap with Figshare.   
+[Prezi](http://prezi.com/user/ybrk9aevwm27/): For Prezi style presentations.   
+[Youtube](http://www.youtube.com/playlist?list=PLxXTFCvC6VNdWRZtOUFjw3xcPd1QtzazT): Videos from my research or teaching activities.   
+[Github](https://github.com/devinberg): A repository for various code projects. Some personal some professional.   
 
 #### Metrics
-[ImpactStory](http://impactstory.org/DevinBerg): Collected statistics about my various scholarly outputs.
-[ORCiD](http://orcid.org/0000-0002-1193-3848): Collected works linked by a common research ID.
+[ImpactStory](http://impactstory.org/DevinBerg): Collected statistics about my various scholarly outputs.   
+[ORCiD](http://orcid.org/0000-0002-1193-3848): Collected works linked by a common research ID.   
 
 ### Other
-[Zotero](https://www.zotero.org/devinberg/items): My library of research articles that I have collected over the last few years.
+[Zotero](https://www.zotero.org/devinberg/items): My library of research articles that I have collected over the last few years.   
 
 ### Contact
 
