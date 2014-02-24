@@ -5,10 +5,10 @@ Author: Devin R. Berg
 Summary:  A listing of the projects detailed in this notebook.
 
 ### Active
-
+* [pid00002](/tag/pid00002.html): Wheelchair Ice Traction
 
 ### Inactive
-* [pid00002](/tag/pid00002.html): Wheelchair Ice Traction
+
 
 
 ### Archived
