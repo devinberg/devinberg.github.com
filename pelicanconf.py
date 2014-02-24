@@ -33,7 +33,7 @@ FOOTER_MESSAGE = u'This work is licensed under the <a href="http://creativecommo
 TWITTER_USERNAME = u'devinberg'
 DISQUS_SITENAME = u'devinsnotebook'
 
-#STATIC_PATHS = ()
+STATIC_PATHS = ('images')
 FILES_TO_COPY = (
     ('extra/README', 'README'),
     ('extra/LICENSE', 'LICENSE'),
