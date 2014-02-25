@@ -7,14 +7,14 @@ Summary: Notes on my reading of Approaching the Scholarship of Teaching and Lear
 
 
 #Resource
-    "Approaching the Scholarship of Teaching and Learning" by Pat Hutchings (2000). Available [here](http://www.carnegiefoundation.org/elibrary/approaching-scholarship-teaching-and-learning).
+  "Approaching the Scholarship of Teaching and Learning" by Pat Hutchings (2000). Available [here](http://www.carnegiefoundation.org/elibrary/approaching-scholarship-teaching-and-learning).
 
 #Notes
 Overall I though the work did a good job of describing the foundations of SoTL by explaining how it came about and through the use of examples from SoTL researchers and how they have defined the work they are doing.
 
 As with most writings that I have found on this topic, there isn't any representation from the engineering education community. While this can sometimes have disadvantages due to the pecularities of engineering, the sciences are close enough to provide some points of comparison. The one other thing I noted was the underrepresentation of untenured faculty in the panel of individuals chosen to form this representative sample.
 
-> ...the wood cutter who never found the time to sharpen his saw and therefore wasted both time and energy. ~ Cindi Fukami. page 2
+> ...the wood cutter who never found the time to sharpen his saw and therefore wasted both time and energy. ~ Cindi Fukami, page 2
 
 This wood cutter analogy seems to speak to the inneficiency in higher education. Much of which stems from overcommittment of faculty who don't have time to evaluate their teaching practices and identify the places where they could be more effective and/or efficient. This can likely be helped by proper allocation of resources to support effective educational practices. But how is that requirement quantified? Will certainly vary by individual.
 
