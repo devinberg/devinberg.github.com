@@ -1,4 +1,4 @@
-Title: Introduction to 
+Title: Introduction to Twitter in the Classroom SoTL Project
 Date: 2014-01-30 14:39
 Tags: sotl,teaching,intro,pid00015
 Slug: 2014/01/intro-sotl-project
