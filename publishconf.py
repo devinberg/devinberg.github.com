@@ -10,7 +10,7 @@ SITEURL = 'http://notebook.devinberg.com'
 ARCHIVES_URL = 'archives.html'
 FEED_DOMAIN = SITEURL
 
-DELETE_OUTPUT_DIRECTORY = True
+#DELETE_OUTPUT_DIRECTORY = True
 
 # Uncomment following line for absolute URLs in production:
 #RELATIVE_URLS = False
