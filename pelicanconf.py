@@ -42,7 +42,7 @@ FILES_TO_COPY = (
     ('extra/favicon.ico', 'favicon.ico'),
     ('extra/404.html', '404.html'),
 )
-TYPOGRIFY (True)
+TYPOGRIFY = True
 
 # Plugins and their settings.
 PLUGIN_PATH = 'pelican-plugins'
