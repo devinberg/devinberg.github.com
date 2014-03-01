@@ -40,5 +40,5 @@ This site is powered by the blogging platform [Pelican](http://getpelican.com). 
 [Zotero](https://www.zotero.org/devinberg/items): My library of research articles that I have collected over the last few years.   
 
 ### Contact
-My contact info can be found on my [profile page](http://www.uwstout.edu/faculty/bergdev).
+
 
