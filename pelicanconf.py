@@ -45,7 +45,7 @@ FILES_TO_COPY = (
 
 # Plugins and their settings.
 PLUGIN_PATH = 'pelican-plugins'
-PLUGINS = ('sitemap','render_math',)
+PLUGINS = ('sitemap', 'render_math', )
 
 SITEMAP = {
     'format': 'xml',
