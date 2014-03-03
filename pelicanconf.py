@@ -41,6 +41,7 @@ STATIC_PATHS = ['images',
     'extra/CNAME',
     'extra/humans.txt',
     'extra/favicon.ico',
+    '404.md',
     ]
 EXTRA_PATH_METADATA = {
     'extra/README': {'path': 'README'},
@@ -48,6 +49,7 @@ EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
     'extra/humans.txt': {'path': 'humans.txt'},
     'extra/favicon.ico': {'path': 'favicon.ico'},
+    '404.md': {'path': '404.md'},
 }
 TYPOGRIFY = True
 
