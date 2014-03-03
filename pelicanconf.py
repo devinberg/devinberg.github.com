@@ -9,7 +9,7 @@ AUTHOR = u'Devin R. Berg'
 TAGLINE = u'Open Engineering'
 SITEURL = 'http://localhost:8000'
 FEED_DOMAIN = SITEURL
-FEED_ATOM = 'feeds/all.atom.xml'
+#FEED_ATOM = 'feeds/all.atom.xml'
 FEED_RSS = 'feeds/all.rss'
 TIMEZONE = 'America/Chicago'
 DEFAULT_LANG = u'en'
@@ -33,15 +33,22 @@ FOOTER_MESSAGE = u'This work is licensed under the <a href="http://creativecommo
 TWITTER_USERNAME = u'devinberg'
 DISQUS_SITENAME = u'devinsnotebook'
 
-STATIC_PATHS = ['images']
-FILES_TO_COPY = (
-    ('extra/README', 'README'),
-    ('extra/LICENSE', 'LICENSE'),
-    ('extra/CNAME', 'CNAME'),
-    ('extra/humans.txt', 'humans.txt'),
-    ('extra/favicon.ico', 'favicon.ico'),
-    ('extra/404.html', '404.html'),
-)
+PATH = "content"
+
+STATIC_PATHS = ['images',
+    'extra/README',
+    'extra/LICENSE',
+    'extra/CNAME',
+    'extra/humans.txt',
+    'extra/favicon.ico',
+    ]
+EXTRA_PATH_METADATA = {
+    'extra/README': {'path': 'README'},
+    'extra/LICENSE': {'path': 'LICENSE'},
+    'extra/CNAME': {'path': 'CNAME'},
+    'extra/humans.txt': {'path': 'humans.txt'},
+    'extra/favicon.ico': {'path': 'favicon.ico'},
+}
 TYPOGRIFY = True
 
 # Plugins and their settings.
