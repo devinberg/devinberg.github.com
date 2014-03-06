@@ -1,10 +1,9 @@
 Title: Free Lifelong Learning
 Date: 2014-03-04 20:48
 Tags: informational, resources
-Slug: 2014/03/introduction
+Slug: 2014/03/free-lifelong-learning
 Author: Devin R. Berg
 Summary: A collection of online resources for learning just about anything for free.
-status: draft
 
 # Lifetime learning.
 Learning is something that people should strive to continue for their entire lives. It is not something that should end upon receiving a diploma or degree. Fortunately there are many resources out there for continuing your education that are freely available. Learning new things can bolster your career or maybe even help you move into a new career. It's never too late to learn something and better your life. I've compiled the below linked resources from a variety of places including my own searching [1-4].
@@ -31,8 +30,12 @@ The ability to code/program is likely going to be one of the most highly sought-
 ## Engineering
 + [Stanford Engineering Everywhere](http://see.stanford.edu/see/courses.aspx): Free online engineering courses available from Stanford.
 + [Engineer Guy](http://engineerguy.com/): Entertaining and informative videos by Bill Hammack. Learn about the engineering behind almost anything.
++ [Brain Waves Videos](http://techvweb4.tech.purdue.edu/brainwaves/): Videos on math, electronics, and other engineering topics put out by Purdue.
++ [the Physics Classroom](http://www.physicsclassroom.com/Class/): A collection of articles on a variety of topics relevant to introductory physics.
 + [All About Circuits](http://www.allaboutcircuits.com/): Learn about electronics and circuit design. A huge field that is important and affects most branches of engineering.
 + [Computer Science E-1](http://computerscience1.tv/): An open course on "Understanding Computers and the Internet" from Harvard's Extension School.
++ [FE Exam Reference Handbook](http://ncees.org/exams/study-materials/download-fe-supplied-reference-handbook/): The reference handbook for the Fundamentals of Engineering exam is a fantastic concise resource that includes a summarization of the basics of engineering. Can be purchased in hard copy or downloaded for free.
++ Of course there are engineering topics contained within many of the resources listed below.
 
 ## General topics
 ### Universities with open course curriculum
