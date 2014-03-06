@@ -5,7 +5,7 @@ Slug: 2014/03/free-lifelong-learning
 Author: Devin R. Berg
 Summary: A collection of online resources for learning just about anything for free.
 
-# Lifetime learning.
+# Lifelong learning.
 Learning is something that people should strive to continue for their entire lives. It is not something that should end upon receiving a diploma or degree. Fortunately there are many resources out there for continuing your education that are freely available. Learning new things can bolster your career or maybe even help you move into a new career. It's never too late to learn something and better your life. I've compiled the below linked resources from a variety of places including my own searching [1-4].
 
 # Resources for continuing education.
@@ -15,7 +15,7 @@ I've tried to collect a few of the myriad options available online for furtherin
 As a member of a global community, learning a second language is probably one of the most beneficial things you can do for yourself. However, it can also be one of the most difficult. There is not really one language I would suggest over any other. They all have benefits in terms of global perspective and expanding your brains capacity for creativity and learning [5].
 
 + [duolingo](https://www.duolingo.com/): While the languages available on duolingo are limited at the moment (at the time of writing: Spanish, French, Italian, German, and Portuguese), the methods employed for language acquisition have been proven to be effective [6]. Has an [Android app](https://play.google.com/store/apps/details?id=com.duolingo) for learning on the go.
-+ [_mem_rise](http://www.memrise.com/): _mem_rise is actually a site which hosts user contributed courses in just about any topic based on the [spacing effect](https://en.wikipedia.org/wiki/Spacing_effect). Language acquisition just tends to be really popular as a usage scenario for the methods used. Also available as an [Android app](https://play.google.com/store/apps/details?id=com.memrise.android.memrisecompanion).
++ [*mem*\_rise](http://www.memrise.com/): mem\_rise is actually a site which hosts user contributed courses in just about any topic based on the [spacing effect](https://en.wikipedia.org/wiki/Spacing_effect). Language acquisition just tends to be really popular as a usage scenario for the methods used. Also available as an [Android app](https://play.google.com/store/apps/details?id=com.memrise.android.memrisecompanion).
 + [Lang-8](http://lang-8.com/): You write in the language you are trying to learn. Native speakers correct your writing. Lather. Rinse. Repeat.
 + [Livemocha](http://livemocha.com/): A great site for language learning that works similar to Rosetta Stone. In fact it was recently acquired by Rosetta Stone so it is hard to say if it will survive or be shut down or change dramatically as a result.
 + [Anki](http://ankisrs.net/): More of a general tool for creating flash cards but many people have found this great for learning languages.
@@ -91,6 +91,7 @@ The ability to code/program is likely going to be one of the most highly sought-
 
 ## Reading
 Reading is kind of the classical way to learn new topics and expand your knowledge base. There are almost _infinitely_ many places to get books for free. Your first stop should be the local library or the library's website which likely has options for renting ebooks.
+
 + [Project Gutenberg](http://www.gutenberg.org/): A library of over 42,000 free ebooks. Most books here are out of copyright and thus freely available.
 + [Other repositories](http://hercules.gcsu.edu/~flowney/eBooks1101/repositories.html): A list of other free ebook sources.
 + [The Free Library](http://www.thefreelibrary.com/): A huge resource for books, periodicals, articles, etc.
