@@ -104,5 +104,5 @@ An even larger list that contains most (all?) of what I've included here plus ma
 2. [Reddit comment](http://www.reddit.com/r/AskReddit/comments/1sn8ki/what_is_a_skill_someone_can_learn_in_6_months/cdz9lyf).
 3. [Reddit comment](http://www.reddit.com/r/AskReddit/comments/1hb8qo/which_websites_do_you_usually_visit_when_you_are/caso6bx).
 4. [Reddit comment](http://www.reddit.com/r/AskReddit/comments/1hxngl/what_is_the_biggest_way_people_waste_money/caz12kn).
-5. Johan Mårtensson, Johan Eriksson, Nils Christian Bodammer, Magnus Lindgren, Mikael Johansson, Lars Nyberg, Martin Lövdén. Growth of language-related brain areas after foreign language learning. _NeuroImage_, 2012; 63 (1): 240 DOI: [10.1016/j.neuroimage.2012.06.043](http://dx.doi.org/10.1016/j.neuroimage.2012.06.043)
+5. Johan Martensson, Johan Eriksson, Nils Christian Bodammer, Magnus Lindgren, Mikael Johansson, Lars Nyberg, Martin Lovden. Growth of language-related brain areas after foreign language learning. _NeuroImage_, 2012; 63 (1): 240 DOI: [10.1016/j.neuroimage.2012.06.043](http://dx.doi.org/10.1016/j.neuroimage.2012.06.043)
 6. Roumen Vesselinov, John Grego. Duolingo effectiveness study. [PDF](http://static.duolingo.com/s3/DuolingoReport_Final.pdf)
