@@ -6,7 +6,7 @@ from __future__ import unicode_literals
 
 SITENAME = u'Engineering Notebook'
 AUTHOR = u'Devin R. Berg'
-TAGLINE = u'Open Engineering'
+TAGLINE = u'Not a blog. A notebook to collect my thoughts in.'
 SITEURL = 'http://localhost:8000'
 FEED_DOMAIN = SITEURL
 #FEED_ATOM = 'feeds/all.atom.xml'
