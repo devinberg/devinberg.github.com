@@ -31,6 +31,7 @@ This site is powered by the blogging platform [Pelican](http://getpelican.com). 
 [Prezi](http://prezi.com/user/ybrk9aevwm27/): For Prezi style presentations.   
 [Youtube](http://www.youtube.com/playlist?list=PLxXTFCvC6VNdWRZtOUFjw3xcPd1QtzazT): Videos from my research or teaching activities.   
 [Github](https://github.com/devinberg): A repository for various code projects. Some personal some professional.   
+[Zenodo](https://zenodo.org/search?f=author&p=Berg%2C%20Devin&ln=en): An archive for releases of various software type items which are assigned a DOI.
 
 #### Metrics
 [ImpactStory](http://impactstory.org/DevinBerg): Collected statistics about my various scholarly outputs.   
