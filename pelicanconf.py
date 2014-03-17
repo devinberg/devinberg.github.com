@@ -42,6 +42,7 @@ STATIC_PATHS = ['images',
     'extra/humans.txt',
     'extra/favicon.ico',
     '404.md',
+    'code',
     ]
 EXTRA_PATH_METADATA = {
     'extra/README': {'path': 'README'},
@@ -55,7 +56,12 @@ TYPOGRIFY = True
 
 # Plugins and their settings.
 PLUGIN_PATH = 'pelican-plugins'
-PLUGINS = ('sitemap', 'render_math', )
+PLUGINS = ('sitemap',
+    'render_math',
+    'liquid_tags.img',
+    'liquid_tags.youtube',
+    'liquid_tags.include_code',
+    )
 
 SITEMAP = {
     'format': 'xml',
