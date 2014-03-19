@@ -1,6 +1,6 @@
 Title: Introduction to Twitter in the Classroom SoTL Project
 Date: 2014-01-30 14:39
-Tags: sotl,teaching,intro,pid00015
+Tags: sotl,teaching,intro,pid00015,education,EndEd
 Slug: 2014/01/intro-sotl-project
 Author: Devin R. Berg
 Summary: Introduction to my SoTL project.
