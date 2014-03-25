@@ -13,10 +13,32 @@ I'm getting started on this course a little late due to some time constraints bu
 
 #Notes
 ##Week 1 Videos
+###Video 1
+* The data available to us can be used to inform educational practice. Don't ignore the data by sticking to the traditional lecture approach just because that is how it has always been done.
+* Researchable questions, just like in normal scientific research.
+* Data $\rightarrow$ analysis $\rightarrow$ interpretation.
+
+###Video 2
 * The research from neuroscience can be a valuable resource to inform the scholarship of teaching and learning. However care must be taken in the translation of the neuroscience findings to educational practice. If the findings are not implemented in exactly the same way in which they were tested in the neuroscience study which produced the result, then the outcomes can be very different and no longer applicable.
 * All implemented items need to have a feedback system in place. This helps the student understand their own progress and allows the instructor to assess the item being implemented. If the feedback is negative then need to evaluate if you are tracking the right things or if the implementation is flawed.
 * Small groups in the classroom have been repeatedly shown to be effective enhancement to student learning. Group size and composition is important. Peer feedback can be just as important as instructor feedback to support student learning.
 * Experiential learning/project-based learning has been shown to have benefits. Relevance $\rightarrow$ retention. Practice $\rightarrow$ integration of knowledge. Application $\rightarrow$ generalizability. Synthesis and integration $\rightarrow$ depth.
+* For project-based learning to be realized, classrooms need to remove barriers. Round tables for small groups and necessary resources available.
+* Pacing and review: frequent review of material can help with retention.
+* Find what works $\rightarrow$ implement $\rightarrow$ monitor outcomes $\rightarrow$ innovate $\rightarrow$ pilot study $\rightarrow$ monitor, scale.
+* Just like in other fields, look to the literature, randomized trials are still the gold standard that you should look for.
+* Don't necessarily assume that what works in a pilot study scales to a larger classroom setting. Dynamics change.
+
+###Video 3
+* "Target knows more about me than my own mother."
+* How can you create a personalized environment for the student? Rather than teaching to the middle.
+* How do we pay attention to the high-performing students and the struggling students?
+* We should be moving towards a model that is adaptive to the needs of every student in the classroom, helping them to maximize their personal learning.
+* Learning styles are not fixed personality traits. The way students learn can be different for each possible context or environment. Can't assume that all students fit into any one mold.
+* To get started with personalization: know as much as possible about each student, offer choice, formative assessment/feedback, enhanced with technology.
+
+###Video 4
+* 
 
 ##Week 2 Videos
 * 
