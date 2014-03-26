@@ -12,13 +12,13 @@ I started with the number of claims that SF processes a day compared to the US p
 \begin{equation}
   \frac{35000}{350000000} = 0.01 \frac{\% of population}{day}
 \end{equation}
-as an estimation of the percentage of US population making claims per day. Of course this doesn't make sense because it is under the assumption that State Farm has 100\% market share. Definitely not the case. So what would could be used to arrive at a semi-realistic estimation? This required some guessing. I estimated now that each person makes 1 claim every 5 years on average. This is probably high but at the time seemed reasonable for a rough estimation. Therefore this would mean that 20\% of the population makes a claim every year. Which then means that ~ 0.055\% of the population makes a claim per day ($20\frac{\% of population}{year}$ / $365 \frac{days}{year}$).
+as an estimation of the percentage of US population making claims per day. Of course this doesn't make sense because it is under the assumption that State Farm has 100% market share. Definitely not the case. So what would could be used to arrive at a semi-realistic estimation? This required some guessing. I estimated now that each person makes 1 claim every 5 years on average. This is probably high but at the time seemed reasonable for a rough estimation. Therefore this would mean that 20% of the population makes a claim every year. Which then means that ~ 0.055% of the population makes a claim per day ($20\frac{\% of population}{year}$ / $365 \frac{days}{year}$).
 
 Now taking our original claims per day number and relating it to the total number of claims per day from my ``1 claim per 5 years" estimate and I get
 \begin{equation}
   \frac{0.01 \frac{\% of population}{day}}{0.055 \frac{\% of population}{day}} = 18.18\% \text{market share.}
 \end{equation}
-Compare this with the actual data [2, 3] where it is reported that State Farm's market share is 18.37\% and we see that it is pretty close. Surprisingly close actually but probably more of a coincidence since it all hinged on my guess that on averate each person makes an auto insurance claim once in 5 years. Lucky guess I suppose.
+Compare this with the actual data [2, 3] where it is reported that State Farm's market share is 18.37% and we see that it is pretty close. Surprisingly close actually but probably more of a coincidence since it all hinged on my guess that on averate each person makes an auto insurance claim once in 5 years. Lucky guess I suppose.
 
 
 
