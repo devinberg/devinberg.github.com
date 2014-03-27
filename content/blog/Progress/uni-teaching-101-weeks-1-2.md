@@ -136,9 +136,22 @@ I'm getting started on this course a little late due to some time constraints bu
 ###Video 5: Principles of Best Practice in Action
 * Introduce yourself to students in advance of the course using a video that covers you, your research, basics of the course, logistics, commonly asked questions, etc.
 * Ask students to prepare for class by requiring things to be done in advance of lecture so they are ready to learn that day's material.
-* 
 
 #Prompted Discussion
+*Reading:* [CaseStudy](https://d396qusza40orc.cloudfront.net/univteaching101/peer_assessment/University_Teaching_101_Peer_Asessment1_Case_Study.pdf)
+##Describe two changes in education, or educational expectations that could account for Dr. Johnson's diminishing impact as a professor.
+
+
+##Discuss the relevance of each of the two changes in education or educational expectations that you listed in Q1 that could account for Dr. Johnson's diminishing impact as a professor.
+
+
+##Describe three evidence-based approaches (Week 1) or best-practices (Week 2) that Dr. Johnson might use to better engage students and create better learning outcomes.
+
+
+##Describe how Dr. Johnson would implement each of these three approaches or best-practices that you identified in Q3.
+
+
+##Describe an evaluation process that you would you use to help Dr. Johnson determine which of the new strategies he is trying are working.
 
 
 #References
