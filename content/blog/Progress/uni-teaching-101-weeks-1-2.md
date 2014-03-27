@@ -13,12 +13,12 @@ I'm getting started on this course a little late due to some time constraints bu
 
 #Notes
 ##Week 1 Videos
-###Video 1
+###Video 1: Teaching with the Science of Learning
 * The data available to us can be used to inform educational practice. Don't ignore the data by sticking to the traditional lecture approach just because that is how it has always been done.
 * Researchable questions, just like in normal scientific research.
 * Data $\rightarrow$ analysis $\rightarrow$ interpretation.
 
-###Video 2
+###Video 2: Neuro-Education - The Role of Neuroscience in Teaching and Learning
 * The research from neuroscience can be a valuable resource to inform the scholarship of teaching and learning. However care must be taken in the translation of the neuroscience findings to educational practice. If the findings are not implemented in exactly the same way in which they were tested in the neuroscience study which produced the result, then the outcomes can be very different and no longer applicable.
 * All implemented items need to have a feedback system in place. This helps the student understand their own progress and allows the instructor to assess the item being implemented. If the feedback is negative then need to evaluate if you are tracking the right things or if the implementation is flawed.
 * Small groups in the classroom have been repeatedly shown to be effective enhancement to student learning. Group size and composition is important. Peer feedback can be just as important as instructor feedback to support student learning.
@@ -29,7 +29,7 @@ I'm getting started on this course a little late due to some time constraints bu
 * Just like in other fields, look to the literature, randomized trials are still the gold standard that you should look for.
 * Don't necessarily assume that what works in a pilot study scales to a larger classroom setting. Dynamics change.
 
-###Video 3
+###Video 3: Understanding Learners and Responding to their Differences
 * "Target knows more about me than my own mother."
 * How can you create a personalized environment for the student? Rather than teaching to the middle.
 * How do we pay attention to the high-performing students and the struggling students?
@@ -37,8 +37,22 @@ I'm getting started on this course a little late due to some time constraints bu
 * Learning styles are not fixed personality traits. The way students learn can be different for each possible context or environment. Can't assume that all students fit into any one mold.
 * To get started with personalization: know as much as possible about each student, offer choice, formative assessment/feedback, enhanced with technology.
 
-###Video 4
-* 
+###Video 4: Technology and Support for Next Generation Learning
+* LMS's are just generic tools for content delivery.
+* Digital content is now so widely available that it is hard to ignore. However unvetted information is also very prevalent.
+    * The consumer expectation is that this form of educational content is very low cost or free.
+	* Educators are no longer the sole source of content. How did this change the role of the instructor in the educational process?
+* The use of online examination allows for data capture. But how does this affect student performance? Digital exams not accessible to all students.
+* Computer assisted instruction: competency-based progressions, data tracking, individualized support. Assessment, credentialing, accreditation.
+    * Prevalent in statistics courses.
+* **Social networking** / group communication permits regular communication with teachers / peers. Outside-of-class support groups.
+* Technology does not solve all of our educational problems but can help us to understand them more deeply and work towards a solution more efficiently.
+
+###Video 5: The Science of Learning at Work in Practice
+* How do you match instructional techniques with the learning profiles of our students?
+* Find evidence based approaches $\rightarrow$ employ $\rightarrow$ assess $\rightarrow$ iterate $\rightarrow$ innovate.
+* Be prepared to abandon "innovative" approaches if they prove to be ineffective.
+* Student performance needs to be assessed individually rather than using a class average. May not be feasible for students you only see in 1 course.
 
 ##Week 2 Videos
 * 
