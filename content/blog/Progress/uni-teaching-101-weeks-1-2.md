@@ -12,7 +12,7 @@ I'm getting started on this course a little late due to some time constraints bu
   "University Teaching 101" by Dr. Pamela R. Jeffries and David W. Andrews (2014).[ Coursera](https://class.coursera.org/univteaching101-001).
 
 #Notes
-##Week 1 Videos
+##Week 1 Videos: The Science of Teaching and Learning
 ###Video 1: Teaching with the Science of Learning
 * The data available to us can be used to inform educational practice. Don't ignore the data by sticking to the traditional lecture approach just because that is how it has always been done.
 * Researchable questions, just like in normal scientific research.
@@ -54,7 +54,88 @@ I'm getting started on this course a little late due to some time constraints bu
 * Be prepared to abandon "innovative" approaches if they prove to be ineffective.
 * Student performance needs to be assessed individually rather than using a class average. May not be feasible for students you only see in 1 course.
 
-##Week 2 Videos
+##Week 2 Videos: Principles of Best Practices in Education
+###Video 1: 
+* What is an example of a learning practice you have learned about recently and how does it relate to a principle of best practice?
+
+###Video 2: Evidence-Based Teaching
+* Evidence-based teaching is a natural progression of wanting to be a competent in educators.
+* We can also help to improve the educational process by documenting what works well and what does not.
+* Most instructors receive no formal training in how to be educators.
+* 7 Principles of Best Practices in Education
+    * Active Learning: Learners are doing something.
+	* Prompt Feedback: Feedback to the learner.
+	* High Expectations: Good outcomes are expected and communicated.
+	* Collaboration: Learners learn from each other.
+	* Time on Task: Time is used wisely to learn content and skills.
+	* Diverse Ways of Learning: A variety of methods or techniques are offered to learn the material to meet diverse student needs.
+	* Learner/Faculty Interaction: Interaction is important.
+* These principles have been demonstrated over and over to be effective for a variety of programs and a diverse set of students.
+* Learners tend to desire participatory learning experience because they tend to work.
+
+###Video 3: Strategies and Approaches to Integrate Principles of Best Practices
+* Active Learning
+    * Students present work in class.
+	* **Relate outside activities to subjects covered in course.**
+	* Analysis case studies, videos, simulations, etc.
+* Prompt Feedback
+    * Provide frequent opportunities to perform and be assessed.
+	* Help students to reflect on what they have learned.
+	* Simply ask questions in class.
+* High Expectations
+    * Clearly communicate your expectations.
+	* Keep those expectations high.
+	* Use positive reinforcement.
+	* Encourage students to work hard.
+	* Challenge students.
+	* Encourage students not to focus on grades but on the learning.
+* Collaboration
+    * Team effort leads to greater learning.
+	* Improves thinging and deeper understanding.
+	* **Activities** done in groups.
+* Time on Task
+    * Time plus energy equals learning.
+	* Teach students effective time management.
+	* Provide benchmarks to build towards a final product.
+	* Communicate expectations of student time and effort outside of class.
+	* Model time management by returning graded items quickly.
+* Diverse Ways of Learning
+    * People bring different talents and backgrounds to the classroom. Need opportunity to demonstrate acquired skills in a variety of ways.
+	* Provide problems that can be solved in a variety of ways.
+	* Allow choice in the completion of project requirements.
+	* Diverse methods of content delivery: hands-on, lecture, written, visual.
+	* Incorporate technological resources.
+* Learner/Faculty Interaction
+    * Faculty concern can help students through a rough time and help them to keep on track.
+	* Knowing faculty can improve intellectual commitment.
+	* Arrive early and stay late.
+	* Know students by name.
+	* Encourage students to come to office hours.
+	* Seek out students who are struggling or missing class.
+	
+###Video 4: Application of Principles of Best Practices in Developing Your Course
+* Considerations for course developement
+    * Where are we going?
+	* How are we going to get there? Resources?
+	* How will we know that we have done it? Evaluation?
+* Identify your students.
+    * Pre-assessments can help here.
+* What are the purposes/objectives?
+    * Objectives should be written in measurable terms.
+	* Bloom's taxonomy.
+	* Specific enough to measure.
+	* Action oriented.
+* Identify the course organization: content, design, activities, etc.
+    * Organized into "must-know" or "nice-to-know" type content.
+	* Is the content too much or not enough?
+	* Help students to be resourceful information seekers.
+	* Consistency and organization to make the course easy to navigate.
+* Apply the principles of best practices.
+    * How can the principles be brought into the course?
+	
+###Video 5: Principles of Best Practice in Action
+* Introduce yourself to students in advance of the course using a video that covers you, your research, basics of the course, logistics, commonly asked questions, etc.
+* Ask students to prepare for class by requiring things to be done in advance of lecture so they are ready to learn that day's material.
 * 
 
 #Prompted Discussion
