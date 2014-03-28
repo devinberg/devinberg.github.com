@@ -4,7 +4,6 @@ Tags: sotl,teaching,learning,pid00015,education,EngEd
 Slug: 2014/03/uni-teaching-101-weeks-1-2
 Author: Devin R. Berg
 Summary: My notes and writings from the first couple of weeks in University Teaching 101.
-Status: draft
 
 I'm getting started on this course a little late due to some time constraints but I'm doing my best to get caught up.
 
@@ -139,20 +138,20 @@ I'm getting started on this course a little late due to some time constraints bu
 
 #Prompted Discussion
 *Reading:* [CaseStudy](https://d396qusza40orc.cloudfront.net/univteaching101/peer_assessment/University_Teaching_101_Peer_Asessment1_Case_Study.pdf)
-##Describe two changes in education, or educational expectations that could account for Dr. Johnson's diminishing impact as a professor.
+##Describe two changes in education, or educational expectations that could account for the instructor's diminishing impact as a professor.
+Along with the changing environment that students find themselves in, the student's expectations of what education looks like have changed as well. What used to provide entertainment in the instructor's classes, the overhead slides and videos, have become overly commonplace such that students have been desensitized to them. Further, students expectations of education have changed. The prevalence of media and technology now necessitate more personalized attention and engagement in order to transmit information. The standard lecture with slides approach no longer engages students as it once may have.
 
-
-##Discuss the relevance of each of the two changes in education or educational expectations that you listed in Q1 that could account for Dr. Johnson's diminishing impact as a professor.
-
+##Discuss the relevance of each of the two changes in education or educational expectations that you listed in Q1 that could account for the instructor's diminishing impact as a professor.
+The instructor's approach to the course has largely remained unchanged over his long career. This is problematic for the reasons discussed above, learner's backgrounds have changed over time and their expectations have shifted due to the general evolution of the educational practice. Since the instructor has not adapted over time, his methodology has slowly become less and less relevant to the needs of the modern student.
 
 ##Describe three evidence-based approaches (Week 1) or best-practices (Week 2) that Dr. Johnson might use to better engage students and create better learning outcomes.
-
+Three approaches that the instructor could adopt to regain his former classroom effectiveness include: active learning, collaboration, and diverse pathways. The means by which these approaches are implemented are described below.
 
 ##Describe how Dr. Johnson would implement each of these three approaches or best-practices that you identified in Q3.
-
+To implement the use of active learning, students might be asked to analyze the videos that are being used in the course rather than passively consume them. This way students are employing higher-order thinking tasks and engaging other areas of the brain in order to evaluate the course material. Not only will the students benefit from this higher level of engagement, but the instructor can use their interpretations to help identify struggling points or even learn from his student's perspectives. Collaboration through small group activities may also benefit the class. This technique could be tied with the active learning approach possibly by asking students to analyze the videos as a group. Perhaps they could prepare a short paper that presents the group's consensus. This would require much discussion among the peer group to arrive at this consensus. Finally, developing diverse pathways to consuming the course material may benefit students from diverse backgrounds. It may be that simply providing the material in visual as well as written format may lead to more positive outcomes. Thus students could select the delivery method that best suits their own learning styles.
 
 ##Describe an evaluation process that you would you use to help Dr. Johnson determine which of the new strategies he is trying are working.
-
+As in any circumstance in which a pedagogical change has been made, it would be prudent for the instructor to evaluate the effects of this change to determine if the change was successful. There are several instruments which may be employed. One of which is a pre- and post-assessment technique. This would allow the instructor to compare post-course performance with pre-course performance on a per student basis. The questions on this assessment could be constructed to evaluate directly against the stated course objectives. Further, it may be that assessment instruments relevant to the course are already available online that the instructor could make use of. Additionally, the instructor could use a self-assessment survey where questions are constructed to help students provide an accurate assessment of their skills and knowledge. This is accomplished through the use of multiple-choice answers which require the student to reflect on specific course concepts or even make use of a quick thought process to provide a measure of retained knowledge. These techniques are well supported by the literature as means of assessing student performance and knowledge retention.
 
 #References
 1. Calkins, A., & Vogt, K. (2013). Next generation learning: The pathway to possibility [White paper]. EDUCAUSE: Next Generation Learning Challenges. Retrieved from [http://net.educause.edu/ir/library/pdf/NGW1301.pdf](http://net.educause.edu/ir/library/pdf/NGW1301.pdf).
