@@ -27,7 +27,7 @@ This site is powered by the blogging platform [Pelican](http://getpelican.com). 
 
 #### Scholarly Output
 [Figshare](http://figshare.com/authors/Devin%20Berg/412062): A collection of my manuscripts, presentations, datasets, posters, figures, and media each with a unique DOI.   
-[Slideshare](http://www.slideshare.net/devinberg): My presentation slides in a format that is easier to view online. Overlap with Figshare.   
+[Speaker Deck](https://speakerdeck.com/devinberg): My presentation slides in a format that is easier to view online. Overlap with Figshare.   
 [Prezi](http://prezi.com/user/ybrk9aevwm27/): For Prezi style presentations.   
 [Youtube](http://www.youtube.com/playlist?list=PLxXTFCvC6VNdWRZtOUFjw3xcPd1QtzazT): Videos from my research or teaching activities.   
 [Github](https://github.com/devinberg): A repository for various code projects. Some personal some professional.   
