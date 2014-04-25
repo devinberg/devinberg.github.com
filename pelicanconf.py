@@ -36,6 +36,7 @@ DISQUS_SITENAME = u'devinsnotebook'
 PATH = "content"
 
 STATIC_PATHS = ['images',
+    'pdfs',
     'extra/README',
     'extra/LICENSE',
     'extra/CNAME',
