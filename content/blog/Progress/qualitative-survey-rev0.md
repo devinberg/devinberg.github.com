@@ -1,7 +1,7 @@
 Title: Qualitative Survey rev 0
 Date: 2014-03-25 12:41
 Tags: sotl,teaching,assessment,pid00015,education,EngEd
-Slug: 2014/02/qualitative-survey-rev0
+Slug: 2014/03/qualitative-survey-rev0
 Author: Devin R. Berg
 Summary: A first draft of a qualitative survey.
 
