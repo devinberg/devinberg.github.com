@@ -1,6 +1,6 @@
 Title: University Teaching 101
 Date: 2014-03-18 14:12
-Tags: sotl,teaching,learning,pid00015,education,EngEd
+Tags: sotl,teaching,learning,education,EngEd
 Slug: 2014/03/uni-teaching-101
 Author: Devin R. Berg
 Summary: An intro to the MOOC that I signed up for.
