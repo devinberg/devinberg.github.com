@@ -9,4 +9,5 @@ Summary: An edit of a qualitative survey.
 Had another meeting with my NTLC Teaching Champions program mentor. At the [last meeting](|filename|/blog/Progress/mentor-meeting-sotl.md) it was decided that my next step would be to draft a qualitative survey. I [did that](|filename|/blog/Progress/qualitative-survey-rev0.md) and thus we used this meeting to review the survey and make some edits to make it better. The resulting marked up file is included below.
 
 ###The Survey Edit
-Viewable [here](http://docs.google.com/gview?url=http://notebook.devinberg.com/pdfs/Quant_survey_draft_rev1.pdf)
+
+<iframe src="http://docs.google.com/viewer?url=http%3A%2F%2Fnotebook.devinberg.com%2Fpdfs%2FQuant_survey_draft_rev1.pdf&embedded=true" width="600" height="780" style="border: none;"></iframe>
