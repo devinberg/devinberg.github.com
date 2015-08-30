@@ -1,8 +1,4 @@
-*.pid
-*.pyc
-*~
+_cache
+_site
 *.attr
-output
-pelican-plugins
-themes
 ignore
