@@ -1,8 +1,8 @@
-Title: projects
-Date: 2012-12-07 18:00
-Slug: projects
-Author: Devin R. Berg
-Summary:  A listing of the projects detailed in this notebook.
+---
+title: projects
+permalink: projects
+layout: default
+---
 
 ### Active
 * [pid00015](/tag/pid00015.html): Twitter in the Engineering Classroom
