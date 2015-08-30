@@ -1,0 +1,9 @@
+safe:        false
+auto:        true
+baseurl:     /
+source:      .
+destination: ./_site
+plugins:     ./_plugins
+future:      true
+markdown:    kramdown
+timezone:    America/Chicago
