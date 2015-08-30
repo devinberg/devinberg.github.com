@@ -1,9 +1,9 @@
-Title: The Purpose of this Notebook
-Date: 2013-06-17 16:48
-Tags: informational
-Slug: 2013/06/introduction
-Author: Devin R. Berg
-Summary: Details on what the purpose of this notebook is and what it will likely contain. Also a few notes on the software used to produce it.
+---
+title: The Purpose of this Notebook
+tags: informational
+category: miscellaneous
+permalink: 2013/06/introduction
+---
 
 # What is this?
 This collection of page headquartered at [notebook.devinberg.com](http://notebook.devinberg.com) is intended to serve as an [open engineering notebook](http://en.wikipedia.org/wiki/Open_notebook_science). Basically what this means is that research outputs are posted in more or less real time as they are generated. This could include data, figures, drawing, notes, links to resources, how-to's, etc. For me it will likely be more weighted towards drawings, figures, and some data since my field is engineering (specifically engineering design). There are of course instances where this will not be possible such as work that involves information about my students or other confidential information for which I am not the only stakeholder.

@@ -1,9 +1,9 @@
-Title: Free Lifelong Learning
-Date: 2014-03-04 20:48
-Tags: informational, resources
-Slug: 2014/03/free-lifelong-learning
-Author: Devin R. Berg
-Summary: A collection of online resources for learning just about anything for free.
+---
+title: Free Lifelong Learning
+tags: informational, resources
+category: miscellaneous
+permalink: 2014/03/free-lifelong-learning
+---
 
 # Lifelong learning.
 Learning is something that people should strive to continue for their entire lives. It is not something that should end upon receiving a diploma or degree. Fortunately there are many resources out there for continuing your education that are freely available. Learning new things can bolster your career or maybe even help you move into a new career. It's never too late to learn something and better your life. I've compiled the below linked resources from a variety of places including my own searching [1-4].

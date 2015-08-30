@@ -1,10 +1,9 @@
-Title: First Meeting with Mentor for SoTL Project
-Date: 2014-02-26 17:54
-Tags: sotl,teaching,meetings,reflections,pid00015,education,EngEd
-Slug: 2014/02/mentor-meeting-sotl
-Author: Devin R. Berg
-Summary: Quick thoughts after first meeting with SoTL project mentor.
-
+---
+title: First Meeting with Mentor for SoTL Project
+tags: sotl,teaching,meetings,reflections,pid00015,education,EngEd
+category: progress
+permalink: 2014/02/mentor-meeting-sotl
+---
 
 Today was the first meeting with my mentor for the Twitter in the Classroom SoTL project for the Teaching Champions program. My mentor is Todd Zimmerman who does a lot of SoTL based work through his research into [Learning Objective Based Assessment](http://talkingphysics.wordpress.com/).
 

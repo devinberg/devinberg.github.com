@@ -1,9 +1,9 @@
-Title: Wheelchair Ice Traction: Initial Concept
-Date: 2012-09-18 14:23
-Tags: assistive,medical devices,pid00002,ideas
-Slug: 2012/09/wheelchair-ice-traction-ic
-Author: Devin R. Berg
-Summary: Initial idea for a method of improving ice traction for wheelchairs.
+---
+title: Wheelchair Ice Traction: Initial Concept
+tags: assistive,medical devices,pid00002,ideas
+category: ideas
+permalink: 2012/09/wheelchair-ice-traction-ic
+---
 
 How can you improve ice traction for wheelchairs? Is this even needed?
 

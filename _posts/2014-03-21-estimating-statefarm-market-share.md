@@ -1,9 +1,9 @@
-Title: Estimating State Farm Market Share
-Date: 2014-03-21 19:36
-Tags: random
-Slug: 2014/03/estimating-statefarm-market-share
-Author: Devin R. Berg
-Summary: A collection of online resources for learning just about anything for free.
+---
+title: Estimating State Farm Market Share
+tags: random
+category: miscellaneous
+permalink: 2014/03/estimating-statefarm-market-share
+---
 
 # Back of the envelope calculations sometimes work out
 While driving home the other day I heard a commercial for State Farm insurance (SF) on the radio. They stated in the commercial that they processed 35,000 claims per day. This sounded like a lot so I started to wonder what this meant in terms of how many customers they had. Below is a brief summary of my though process during the rest of the drive as I attempted to work this out in my head.

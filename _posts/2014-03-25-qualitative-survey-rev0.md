@@ -1,12 +1,11 @@
-Title: Qualitative Survey rev 0
-Date: 2014-03-25 12:41
-Tags: sotl,teaching,assessment,pid00015,education,EngEd
-Slug: 2014/03/qualitative-survey-rev0
-Author: Devin R. Berg
-Summary: A first draft of a qualitative survey.
+---
+title: Qualitative Survey rev 0
+tags: sotl,teaching,assessment,pid00015,education,EngEd
+category: progress
+permalink: 2014/03/qualitative-survey-rev0
+---
 
-
-After my [first mentor meeting](|filename|/blog/Progress/mentor-meeting-sotl.md) it was decided that my next step would be to draft a qualitative survey to use for this project. Originally the thought was to use a standard Likert scale survey. However, I have been reading "[How Learning Works: Seven Research-Based Principles for Smart Teaching](http://www.amazon.com/gp/product/0470484101/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0470484101&linkCode=as2&tag=madibiki-20)" (great book by the way) and there is a section discussing the use of self-assessment style surveys which help the survey taker accurately determine their understanding of a topic. Thus I decided to attempt this approach and write a self-assessment style survey. The drafted questions are included below.
+After my [first mentor meeting]({% post_url 2014-02-26-mentor-meeting-sotl %}) it was decided that my next step would be to draft a qualitative survey to use for this project. Originally the thought was to use a standard Likert scale survey. However, I have been reading "[How Learning Works: Seven Research-Based Principles for Smart Teaching](http://www.amazon.com/gp/product/0470484101/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0470484101&linkCode=as2&tag=madibiki-20)" (great book by the way) and there is a section discussing the use of self-assessment style surveys which help the survey taker accurately determine their understanding of a topic. Thus I decided to attempt this approach and write a self-assessment style survey. The drafted questions are included below.
 
 ###The Survey Draft
 1. How would you rate your ability to identify engineering principles in your surroundings?

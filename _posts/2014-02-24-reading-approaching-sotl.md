@@ -1,10 +1,9 @@
-Title: Reading: Approaching the Scholarship of Teaching and Learning
-Date: 2014-02-24 10:39
+---
+title: Reading: Approaching the Scholarship of Teaching and Learning
 Tags: sotl,teaching,reading,pid00015,education,EngEd
-Slug: 2014/02/reading-approaching-sotl
-Author: Devin R. Berg
-Summary: Notes on my reading of Approaching the Scholarship of Teaching and Learning.
-
+category: progress
+permalink: 2014/02/reading-approaching-sotl
+---
 
 #Resource
   "Approaching the Scholarship of Teaching and Learning" by Pat Hutchings (2000). Available [here](http://www.carnegiefoundation.org/elibrary/approaching-scholarship-teaching-and-learning).

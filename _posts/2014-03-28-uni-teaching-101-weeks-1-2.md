@@ -1,9 +1,9 @@
-Title: University Teaching 101 Weeks 1 and 2
-Date: 2014-03-28 10:39
-Tags: sotl,teaching,learning,education,EngEd
-Slug: 2014/03/uni-teaching-101-weeks-1-2
-Author: Devin R. Berg
-Summary: My notes and writings from the first couple of weeks in University Teaching 101.
+---
+title: University Teaching 101 Weeks 1 and 2
+tags: sotl,teaching,learning,education,EngEd
+category: progress
+permalink: 2014/03/uni-teaching-101-weeks-1-2
+---
 
 I'm getting started on this course a little late due to some time constraints but I'm doing my best to get caught up.
 

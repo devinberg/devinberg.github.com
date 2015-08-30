@@ -1,10 +1,9 @@
-Title: Introduction to Twitter in the Classroom SoTL Project
-Date: 2014-01-30 14:39
-Tags: sotl,teaching,intro,pid00015,education,EndEd
-Slug: 2014/01/intro-sotl-project
-Author: Devin R. Berg
-Summary: Introduction to my SoTL project.
-
+---
+title: Introduction to Twitter in the Classroom SoTL Project
+tags: sotl,teaching,intro,pid00015,education,EngEd
+category: ideas
+permalink: 2014/01/intro-sotl-project
+---
 
 #Background
 Since my first semester as a faculty here at Stout way back in Fall 2012 I have noted a common issue in my engineering courses is the lack of student engagement with the course curriculum. Often students see themselves as passive consumers of the lecture material and not as active participants in the learning process. To facilitate the shift from passive consumers to active participants or even content creators for my students I started to implement course assignments targeted towards this purpose. These assignments involve tasking the students with identifying and reporting on an example of the course curriculum that they have observed in their daily lives. Originally this assignment was completed in the form of a submission on the course management software, D2L.

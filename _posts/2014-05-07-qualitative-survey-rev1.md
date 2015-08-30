@@ -1,11 +1,11 @@
-Title: Qualitative Survey rev 1
-Date: 2014-05-07 11:24
-Tags: sotl,teaching,assessment,pid00015,education,EngEd
-Slug: 2014/05/qualitative-survey-rev1
-Author: Devin R. Berg
-Summary: Version 2 of my qualitative survey.
+---
+title: Qualitative Survey rev 1
+tags: sotl,teaching,assessment,pid00015,education,EngEd
+category: progress
+permalink: 2014/05/qualitative-survey-rev1
+---
 
-At my last mentor meeting we worked on making [comments on my first draft of the qualitative survey](|filename|/blog/Progress/qualitative-survey-rev0-edit.md). I finally got around to make some revisions to the survey based on those comments. The current version is below.
+At my last mentor meeting we worked on making [comments on my first draft of the qualitative survey]({% post_url 2014-04-01-qualitative-survey-rev0-edit %}). I finally got around to make some revisions to the survey based on those comments. The current version is below.
 
 ###The Survey Draft
 1. How would you rate your ability to identify statics and dynamics principles in your surroundings?
