@@ -3,6 +3,7 @@ title: Estimating State Farm Market Share
 tags: random
 category: miscellaneous
 permalink: 2014/03/estimating-statefarm-market-share
+layout: post
 ---
 
 # Back of the envelope calculations sometimes work out

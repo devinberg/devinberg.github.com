@@ -3,6 +3,7 @@ title: The Purpose of this Notebook
 tags: informational
 category: miscellaneous
 permalink: 2013/06/introduction
+layout: post
 ---
 
 # What is this?

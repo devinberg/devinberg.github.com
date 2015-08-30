@@ -3,6 +3,7 @@ title: Static Equilibrium Demonstrator: Pattern
 tags: educational,pid00001
 category: conclusions
 permalink: 2012/09/static-equil-demonstrator-pattern
+layout: post
 ---
 The frame for the static equilibrium demonstrator can be fairly simple to produce. The pattern shown below can be cut on a laser cutter.
 

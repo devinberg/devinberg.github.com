@@ -3,6 +3,7 @@ title: Wheelchair Ice Traction: Defining Needs
 tags: assistive,medical devices,pid00002,needs
 category: progress
 permalink: 2013/10/wheelchair-ice-traction-needs
+layout: post
 ---
 
 #Needs
