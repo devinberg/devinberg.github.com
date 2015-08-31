@@ -4,6 +4,7 @@ tags: random
 category: miscellaneous
 permalink: 2014/03/estimating-statefarm-market-share
 layout: post
+comments: true
 ---
 
 # Back of the envelope calculations sometimes work out
