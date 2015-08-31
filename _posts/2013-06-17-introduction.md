@@ -4,6 +4,7 @@ tags: informational
 category: miscellaneous
 permalink: 2013/06/introduction
 layout: post
+comments: true
 ---
 
 # What is this?

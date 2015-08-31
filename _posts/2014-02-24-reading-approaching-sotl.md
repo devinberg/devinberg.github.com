@@ -4,6 +4,7 @@ Tags: sotl,teaching,reading,pid00015,education,EngEd
 category: progress
 permalink: 2014/02/reading-approaching-sotl
 layout: post
+comments: true
 ---
 
 #Resource

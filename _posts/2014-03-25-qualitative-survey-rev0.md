@@ -4,6 +4,7 @@ tags: sotl,teaching,assessment,pid00015,education,EngEd
 category: progress
 permalink: 2014/03/qualitative-survey-rev0
 layout: post
+comments: true
 ---
 
 After my [first mentor meeting]({% post_url 2014-02-26-mentor-meeting-sotl %}) it was decided that my next step would be to draft a qualitative survey to use for this project. Originally the thought was to use a standard Likert scale survey. However, I have been reading "[How Learning Works: Seven Research-Based Principles for Smart Teaching](http://www.amazon.com/gp/product/0470484101/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0470484101&linkCode=as2&tag=madibiki-20)" (great book by the way) and there is a section discussing the use of self-assessment style surveys which help the survey taker accurately determine their understanding of a topic. Thus I decided to attempt this approach and write a self-assessment style survey. The drafted questions are included below.

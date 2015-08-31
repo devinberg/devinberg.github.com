@@ -4,6 +4,7 @@ tags: learning,professional development,writing
 category: progress
 permalink: 2013/11/sciwrite-essay-2
 layout: post
+comments: true
 ---
 
 #Essay 2 completed for the SciWrite MOOC offered by Stanford University.

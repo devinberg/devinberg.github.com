@@ -4,6 +4,7 @@ tags: sotl,teaching,assessment,pid00015,education,EngEd
 category: progress
 permalink: 2014/05/qualitative-survey-rev1
 layout: post
+comments: true
 ---
 
 At my last mentor meeting we worked on making [comments on my first draft of the qualitative survey]({% post_url 2014-04-01-qualitative-survey-rev0-edit %}). I finally got around to make some revisions to the survey based on those comments. The current version is below.

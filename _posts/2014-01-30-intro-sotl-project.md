@@ -4,6 +4,7 @@ tags: sotl,teaching,intro,pid00015,education,EngEd
 category: ideas
 permalink: 2014/01/intro-sotl-project
 layout: post
+comments: true
 ---
 
 #Background

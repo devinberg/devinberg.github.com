@@ -4,6 +4,7 @@ tags: sotl,teaching,learning,education,EngEd
 category: progress
 permalink: 2014/03/uni-teaching-101-weeks-1-2
 layout: post
+comments: true
 ---
 
 I'm getting started on this course a little late due to some time constraints but I'm doing my best to get caught up.
