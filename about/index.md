@@ -2,7 +2,6 @@
 layout: default
 ---
 
-<div class="well">
 
 <h3>About me</h3>
 
@@ -47,4 +46,4 @@ This site is powered by the blogging platform Jekyll and is hosted on GitHub Pag
 <li><a href="https://www.zotero.org/devinberg/items">Zotero</a>: My library of research articles that I have collected over the last few years.</li>
 </ul>
 
-</div>
+
