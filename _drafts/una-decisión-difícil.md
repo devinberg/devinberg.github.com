@@ -18,3 +18,8 @@ It would mean not seeing his wife or child but perhaps he could create a better 
 
 For Fermin, this was a difficult decision.
 
+Ultimately, with lots of consideration and the urging of Petrona, Fermin decided to stay.
+He didn't want to miss the development of his daughter and, though he didn't say it, he wanted another child as well.
+With the help of his friends who had also decided to stay, Fermin formed a youth council with the mission of keeping the village alive and finding a way to make it prosperous again.
+The group approaches this task with vigor and a willingness to seek outside help, something the elders had shunned in the past.
+With renewed hope and optimism, the community have become a happy place to live again, full of music and dancing.
