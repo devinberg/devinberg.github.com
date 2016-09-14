@@ -9,7 +9,7 @@ comments: true
 
 At my last mentor meeting we worked on making [comments on my first draft of the qualitative survey]({% post_url 2014-04-01-qualitative-survey-rev0-edit %}). I finally got around to make some revisions to the survey based on those comments. The current version is below.
 
-###The Survey Draft
+### The Survey Draft
 1. How would you rate your ability to identify statics and dynamics principles in your surroundings?
 
     a. I am not sure how the statics and dynamics principles discussed in this class relate to real life.
