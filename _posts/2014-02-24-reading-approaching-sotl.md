@@ -1,5 +1,5 @@
 ---
-title: Reading: Approaching the Scholarship of Teaching and Learning
+title: "Reading: Approaching the Scholarship of Teaching and Learning"
 Tags: sotl,teaching,reading,pid00015,education,EngEd
 category: progress
 permalink: 2014/02/reading-approaching-sotl
@@ -7,10 +7,10 @@ layout: post
 comments: true
 ---
 
-#Resource
+# Resource
   "Approaching the Scholarship of Teaching and Learning" by Pat Hutchings (2000). Available [here](http://www.carnegiefoundation.org/elibrary/approaching-scholarship-teaching-and-learning).
 
-#Notes
+# Notes
 Overall I though the work did a good job of describing the foundations of SoTL by explaining how it came about and through the use of examples from SoTL researchers and how they have defined the work they are doing.
 
 As with most writings that I have found on this topic, there isn't any representation from the engineering education community. While this can sometimes have disadvantages due to the pecularities of engineering, the sciences are close enough to provide some points of comparison. The one other thing I noted was the underrepresentation of untenured faculty in the panel of individuals chosen to form this representative sample.

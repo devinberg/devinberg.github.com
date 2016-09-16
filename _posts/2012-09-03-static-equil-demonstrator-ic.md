@@ -1,5 +1,5 @@
 ---
-title: Static Equilibrium Demonstrator: Initial Concept
+title: "Static Equilibrium Demonstrator: Initial Concept"
 tags: educational,ideas,pid00001
 category: ideas
 permalink: 2012/09/static-equil-demonstrator-ic

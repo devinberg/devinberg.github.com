@@ -1,5 +1,5 @@
 ---
-title: Static Equilibrium Demonstrator: Pattern
+title: "Static Equilibrium Demonstrator: Pattern"
 tags: educational,pid00001
 category: conclusions
 permalink: 2012/09/static-equil-demonstrator-pattern
