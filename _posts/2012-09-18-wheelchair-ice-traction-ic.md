@@ -9,13 +9,13 @@ comments: true
 
 How can you improve ice traction for wheelchairs? Is this even needed?
 
-#Needs
+# Needs
 * light-weight
 * deployable
 * compatible with existing wheelchairs
 * safe
 
-#Existing devices
+# Existing devices
 * [Chains](http://www.google.com/patents/US5261470): Basically wheel chains attached by straps.
     * Must be attached ahead of time.
 	* Cannot be retracted when ice not present.
