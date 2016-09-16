@@ -1,3 +1,13 @@
+---
+title: Una Decisión Difícil
+tags: writing, short-stories, español, learning
+category: miscellaneous
+permalink: 2016/09/una-decisión-difícil
+layout: post
+comments: true
+---
+*As part of my attempts to learn Spanish, I am writing some short stories as practice.*
+
 Fermin vivía en un pueblo pequeño a doscientos kilometros fuera de la ciudad principal de Nicaragua con su familia. 
 El creció en este pueblo al igual que su papá y su abuelo.
 El observaba el cambio de la comunidad.
