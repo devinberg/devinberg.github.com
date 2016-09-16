@@ -1,25 +1,27 @@
-Fermin vivio en un pueblo pequeno doscientos kilometros fuera de la ciudad principal de Nicaragua con su familia. 
-El crecio en esto pueblo lo mismo de su papa y su abuelo.
-El abservaba el cambio con los anos, crecio de algunas casas a un bullicioso, animado comunidad con anos de lluvia abundante que le gusta cuando Fermin era un nino.
-Sin embargo, en anos recientos la lluvia fue menos y la vida era deficil.
-La gente de la comunidad comenzado a dejar, algunos fueron à la ciudad principal por trabajar y otros a Costa Rica por la cosecha de cafe.
+Fermin vivía en un pueblo pequeño a doscientos kilometros fuera de la ciudad principal de Nicaragua con su familia. 
+El creció en este pueblo al igual que su papá y su abuelo.
+El observaba el cambio de la comunidad.
+Con los años, creció el mimero de casas a una bulliciosa, animada comunidad con años de lluvia abundante que le gustaba cuando Fermin era un niño.
+Sin embargo, en años recientes la lluvia fue menos y la vida era difícil.
+La gente de la comunidad había comenzado a dejar, algunos fueron à la ciudad principal para trabajar y otros a Costa Rica para la cosecha de café.
 Mientras tanto, Fermin estaba tratando de formar una familia.
-Se habia casado con una mujer joven y bella, se llama Petrona, de un pueblo cercano y ellos terminaron una casa en el ano pasado.
-Entonces, con la temporada lluviosa, con menos de lluvia que los ancianos pudieran recordar, Fermin y su esposa tenian una nina sana.
+Se había casado con una mujer joven y bella, se llamaba Petrona, de un pueblo cercano y ellos terminaron de construir una casa el año pasado.
+Entonces, con la temporada lluviosa, con menos lluvia que los ancianos pudieran recordar, Fermin y su esposa tuvieron una niña sana y bonita.
 
-Ahora, con el arroyo seca, Fermin tenia que decifrar como ellos que tendrian comida y moneda suficiente para los próximos cinco meses.
-La esposa de Fermin quería desesperadamente tener un otro bebé, ella siempre había soñado tener dos niños en la casa.
-Con todas estas cosas en la cabeza de Fermin, el tenía hacer una selección.
-El pudiera responder a la petición de su hermano ir a Costa Rica por la cosecha de cafe.
-El trabajo era duro y las horas son largas, pero las plantaciones siempre estaban buscando mas cuerpos y sabía que no rechazado.
-El pudiera elegir lo miso de sus muchos amigos antes, encontrar una manera de entrar los Estados Unidos.
-Allí, pudo encontrar trabajo y enviar dinero a Petrona.
-Esto significaría no ver su esposa o niño, pero podría crear una vida mejor ahora y cuando las condiciones mejor, que volvería.
+Ahora, con el arroyo seco, Fermin tenía que decifrar cómo ellos tendrían comida y dinero suficiente para los próximos cinco meses.
+La esposa de Fermin quería desesperadamente tener otro bebé, ella siempre había soñado con tener dos niños en la casa.
+Con todas estas cosas en la cabeza de Fermin, él tenía que tomar una decision.
+Él podia responder a la petición de su hermano de ir a Costa Rica para la cosecha de café.
+El trabajo era duro y las horas eran largas, pero las plantaciones siempre estaban buscando más cuerpos y sabía que no seria rechazado.
+Él podia elegir lo mismo que sus muchos amigos antes, encontrar una manera de entrará los Estados Unidos.
+Allí, podría encontrar trabajo y enviar dinero a Petrona.
+Esto significaría no verá su esposa o niño, pero podría crear una vida mejor ahora y cuando las condiciones mejoraran, él volvería.
 
-Por Fermin, esto era una decisióm defícil.
+Para Fermin, esto era una decisión difícil.
 
-Por último, con muchas consideración y instando de Petrona, Fermin decidió quedarse.
-El no quiere perderse el tiempo con su hija y, el no lo dijo, quería un otro hijo tambien.
-Con la ayuda de sus amigos que decidido quedarse tambien, Fermin formó un consejo del joven con la misión de mantener vivo en el pueblo y crear próspera nuevo.
-El grupo trabaja en esto tarea con vigor y la voluntad de buscar ayuda externa, also que los ancianos habían rechazado en el pasado.
-Con esperanza y optimismo nuevo, la comunidad fue un lugar feliz para vivir, con mucha música y baile.
+Por último, con mucha consideración e instando de Petrona, Fermin decidió quedarse.
+Él no quería perderse el tiempo con su hija y, aunque no lo dijo, quería otro hijo también.
+Con la ayuda de sus amigos decidió quedarse.
+Entonces, Fermin formó un consejo de jovenes con la misión de mantener la unidad en el pueblo y crear prosperidad.
+El grupo trabajaba en esta tarea con vigor y la voluntad de buscar ayuda externa, que los ancianos habían rechazado en el pasado.
+Con esperanza y optimismo, la comunidad fue un lugar feliz para vivir, con mucha música y baile.
