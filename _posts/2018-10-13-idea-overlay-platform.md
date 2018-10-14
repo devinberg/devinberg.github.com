@@ -1,6 +1,6 @@
 ---
 title: Idea for an Overlay Journal Platform
-tags: open science, open access, development
+tags: open-science open-access development
 category: miscellaneous
 permalink: 2018/10/idea-overlay-platform
 layout: post

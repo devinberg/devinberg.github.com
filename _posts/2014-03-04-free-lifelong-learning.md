@@ -1,6 +1,6 @@
 ---
 title: Free Lifelong Learning
-tags: informational, resources
+tags: informational resources
 category: miscellaneous
 permalink: 2014/03/free-lifelong-learning
 layout: post

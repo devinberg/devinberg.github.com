@@ -1,6 +1,6 @@
 ---
 title: Introduction to Twitter in the Classroom SoTL Project
-tags: sotl,teaching,intro,pid00015,education,EngEd
+tags: sotl teaching intro pid00015 education EngEd
 category: ideas
 permalink: 2014/01/intro-sotl-project
 layout: post

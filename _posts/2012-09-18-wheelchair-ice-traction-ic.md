@@ -1,6 +1,6 @@
 ---
 title: "Wheelchair Ice Traction: Initial Concept"
-tags: assistive,medical devices,pid00002,ideas
+tags: assistive medical-devices pid00002 ideas
 category: ideas
 permalink: 2012/09/wheelchair-ice-traction-ic
 layout: post

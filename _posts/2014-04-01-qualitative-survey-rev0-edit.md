@@ -1,6 +1,6 @@
 ---
 title: Qualitative Survey rev 0 Edit
-tags: sotl,teaching,assessment,pid00015,education,EngEd
+tags: sotl teaching assessment pid00015 education EngEd
 category: progress
 permalink: 2014/04/qualitative-survey-rev0-edit
 layout: post

@@ -1,6 +1,6 @@
 ---
 title: "Reading: Approaching the Scholarship of Teaching and Learning"
-Tags: sotl,teaching,reading,pid00015,education,EngEd
+Tags: sotl teaching reading pid00015 education EngEd
 category: progress
 permalink: 2014/02/reading-approaching-sotl
 layout: post

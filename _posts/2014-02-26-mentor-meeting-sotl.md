@@ -1,6 +1,6 @@
 ---
 title: First Meeting with Mentor for SoTL Project
-tags: sotl,teaching,meetings,reflections,pid00015,education,EngEd
+tags: sotl teaching meetings reflections pid00015 education EngEd
 category: progress
 permalink: 2014/02/mentor-meeting-sotl
 layout: post

@@ -1,6 +1,6 @@
 ---
 title: Una Decisión Difícil
-tags: writing, short-stories, español, learning
+tags: writing short-stories español learning
 category: miscellaneous
 permalink: 2016/09/una-decisión-difícil
 layout: post

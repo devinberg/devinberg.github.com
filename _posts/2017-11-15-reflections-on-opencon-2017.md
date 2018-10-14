@@ -1,6 +1,6 @@
 ---
 title: Reflections on OpenCon 2017
-tags: OpenCon, open access, education, travel
+tags: OpenCon open-access education travel
 category: miscellaneous
 permalink: 2017/11/reflections-on-opencon-2017
 layout: post

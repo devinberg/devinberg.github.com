@@ -1,6 +1,6 @@
 ---
 title: SciWrite Essay 2
-tags: learning,professional development,writing
+tags: learning professional-development writing
 category: progress
 permalink: 2013/11/sciwrite-essay-2
 layout: post

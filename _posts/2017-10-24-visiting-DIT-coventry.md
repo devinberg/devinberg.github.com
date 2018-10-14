@@ -1,6 +1,6 @@
 ---
 title: Visiting DIT and Coventry University
-tags: travel, notes, engineering education, collaboration
+tags: travel notes engineering-education collaboration
 category: miscellaneous
 permalink: 2017/10/visiting-DIT-coventry
 layout: post

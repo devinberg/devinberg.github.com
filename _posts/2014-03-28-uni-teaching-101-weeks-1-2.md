@@ -1,6 +1,6 @@
 ---
 title: University Teaching 101 Weeks 1 and 2
-tags: sotl,teaching,learning,education,EngEd
+tags: sotl teaching learning education EngEd professional-development
 category: progress
 permalink: 2014/03/uni-teaching-101-weeks-1-2
 layout: post
